@@ -1,0 +1,4 @@
+23	Nuraddin	Sadili	0
+32	Sadi	Sadiyev	852
+324	Farhad	Amir	664
+100	John	Green	214
